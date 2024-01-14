@@ -23,10 +23,12 @@ Overview
       Interactive dashboard components for a dynamic user experience.
       
   II.Technologies Used
+  
     Django: A high-level Python web framework.
     Django REST Framework: For building APIs and handling authentication.
     Bootstrap: For responsive and stylish frontend components.
   
   III.Contributing
+  
     Contributions are welcome! Feel free to open issues or submit pull requests.
   
